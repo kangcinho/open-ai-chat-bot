@@ -1,2 +1,2 @@
 spring.application.name=Chatbot Open AI
-open.api.key=
+gemini.api.key=
